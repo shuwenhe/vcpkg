@@ -3,4 +3,5 @@ cd vcpkg
 .\bootstrap-vcpkg.bat
 ./bootstrap-vcpkg.sh
 .\vcpkg.exe help
+.\vcpkg.exe install curl:x64-windows
 
